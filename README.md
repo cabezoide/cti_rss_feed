@@ -5,3 +5,5 @@ El usuario ingresa un keyword especifico para buscar en las fuentes de RSS de ci
 
 Requiere librerias feedparser y pandas. Funciona tanto en windows como linux. La idea es poder buscar rápidamente por palabras clave, como jira, ransomware, critical, vmware y asi. Ejemplo de uso: 
 python cti_rss_feed.py critical
+
+(https://github.com/cabezoide/cti_rss_feed/blob/main/reporte.JPG)
